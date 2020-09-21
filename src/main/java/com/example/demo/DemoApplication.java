@@ -11,6 +11,7 @@ public class DemoApplication {
 		ConfigurableApplicationContext run=SpringApplication.run(DemoApplication.class, args);
 		//changes for his 134
 		run.close();
+		int a=20;
 	}
 
 }
