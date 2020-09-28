@@ -6,6 +6,8 @@ import org.springframework.context.ConfigurableApplicationContext;
 
 @SpringBootApplication
 public class DemoApplication {
+//his 301 changes
+ private int=200;
 
 	public static void main(String[] args) {
 		ConfigurableApplicationContext run=SpringApplication.run(DemoApplication.class, args);
