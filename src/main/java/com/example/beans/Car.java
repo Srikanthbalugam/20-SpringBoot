@@ -8,7 +8,15 @@ public class Car {
 		
 		int var=122;
 	}
+
 	//feature-300 changes
 	public void doChange(){}
+
+		//feature -200 changes
+		public void doChange()
+		{
+				//logic here
+		}
+
 	
 }
